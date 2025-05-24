@@ -3,7 +3,9 @@ import re
 from categorize import categorize
 
 # Input and output file paths
-input_file = r"c:\Users\dkron\Coding\Python\FinAuto\umsaetze_9784700399_20250523-2341.csv"
+input_file = r"c:\Users\dkron\Coding\Python\FinAuto\Comdirect_2025_10052025.csv"
+#input_file = r"c:\Users\dkron\Coding\Python\FinAuto\umsaetze_9784700399_20250523-2341.csv"
+
 output_file = r"c:\Users\dkron\Coding\Python\FinAuto\merged.csv"
 
 # Column mappings: input column -> output column
